@@ -1,0 +1,13 @@
+.form-wrapper{
+    width: 80%;
+    margin: 40px auto;
+
+}
+.content-wrapper{
+    width: 90%;
+    margin: 0px auto 0px;
+}
+
+th{
+    font-size: 10px;
+}
